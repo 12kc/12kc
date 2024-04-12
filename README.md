@@ -1,5 +1,9 @@
-### Hi there 👋
+### I'm Kalani
+You can read more about me [here](https://slur.lol).
 
+#### Current Projects
+- Create a fetch script in Python
+- idk what else right now lol
 <!--
 **12kc/12kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
