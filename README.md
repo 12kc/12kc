@@ -2,8 +2,10 @@
 You can read more about me [here](https://slur.lol).
 
 #### Current Projects
-- Create a fetch script in Python
+- Create a neofetch style program in Python
 - idk what else right now lol
+#### Contacts
+The best to reach me is through discord, username is 11kc
 <!--
 **12kc/12kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
