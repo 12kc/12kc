@@ -1,8 +1,8 @@
 ### I'm Kalani
-You can read more about me [here](https://slur.lol).
+I'm an amateur software developer who loves technology!
 
 #### Current Projects
-- Create a neofetch style program in Python
+- Create a neofetch style program in Python. [check it out!](https://github.com/12kc/pyfetch)
 - idk what else right now lol
 #### Contacts
 The best to reach me is through discord, username is 11kc
