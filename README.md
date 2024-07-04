@@ -1,10 +1,9 @@
-<h2 align=center>I'm Kalani</h2>
-<p align=center>a beginner software developer who loves linux and programming in go</p>
+# Hi!
+**I'm Kalani (he/him)**, a high school student who ~~doesn't have a life~~ enjoys programming!
 
-<h3 align=center>current projects</h3>
-<ol align=center>
-  <p align=center>- pass high school</p>
-  <p align=center>- more soon trust me</p>
-</ol>
-<h3 align=center>contacts</h3>
-<p align=center>the best to reach me is through discord, username is 11kc</p>
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,html,css,bash,c,go,python,neovim,docker)](https://skillicons.dev)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=12kc" />
+</a>
+### contacts
+the best way to reach me is through discord, username is *11kc*
