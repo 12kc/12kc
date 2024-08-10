@@ -1,4 +1,7 @@
 # Hi there!
+
+Dev @ [SippChat](https://github.com/SippChat/)
+
 **I'm Kalani (he/him)**, a high school student who ~~doesn't have a life~~ enjoys programming!
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,html,css,bash,c)](https://skillicons.dev)
