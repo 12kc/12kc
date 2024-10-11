@@ -1,6 +1,6 @@
 # Hi there!
 
-**I'm Kalani (he/him)**, a high school student who ~~doesn't have a life~~ enjoys programming!
+**I'm Kalani (he/him)**, a high school student who ~~doesn't have a life~~ and hates programming!
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,html,css,bash,c)](https://skillicons.dev)
 
